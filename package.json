@@ -1,0 +1,15 @@
+{
+  "author": "akiinyo",
+  "name": "node_sample",
+  "description": "sample program for testing node",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
